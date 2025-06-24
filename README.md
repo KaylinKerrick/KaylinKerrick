@@ -9,7 +9,7 @@
   <a href="mailto:kaylinmkerrick@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://drive.google.com/file/d/1-bHd_TPIko6r84TGRa5evEzgkFthQ12h/view?usp=sharing](https://drive.google.com/file/d/1_bRpQayEdFhrSMQwltPj2XntTxg4JV5b/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1_bRpQayEdFhrSMQwltPj2XntTxg4JV5b/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=codesandbox&label=&color=04040&logoColor=&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
   </a>
 </div>
